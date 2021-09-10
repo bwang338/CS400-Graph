@@ -1,0 +1,23 @@
+JFK
+LaGuardia
+Dane County
+Chicago
+Minnesota
+San Francisco
+Los Angeles
+Seoul
+Paris
+London
+JFK, Chicago, 790, 0600, 0800, 1200
+Chicago, Dane County, 150, 0800, 1300, 1600
+LaGuardia, Dane County, 150, 1200, 1600, 2000
+LaGuardia, Minnesota, 700, 0400, 0600, 0800
+JFK, San Francisco, 2900, 0000, 0200, 0700
+Seoul, Los Angeles, 10000, 0200, 0600, 1200
+Los Angeles, Chicago, 800, 0123, 1527, 1901
+Seoul, JFK, 15000, 0400, 1200, 1900
+Paris, London, 5000, 1200, 1400, 1600
+LaGuardia, Paris, 10000, 1928, 0435, 2309, 2257
+London, Minnesota, 12000, 1900, 1930, 2000
+Paris, Seoul, 20000, 0001, 0010, 0100, 1000
+
